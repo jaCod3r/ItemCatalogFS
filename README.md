@@ -1,1 +1,1 @@
-### Udacity Full Stack Developer Project 2: Item Catalog
+### Udacity Full Stack Developer Project 3: Item Catalog
